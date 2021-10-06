@@ -1,6 +1,6 @@
 # Instalación del IDE IntelliJ IDEA
 
-## Prequisitos
+## Requisitos
 
 Es necesario tener java instalado, en este caso, la versión 8:
 
